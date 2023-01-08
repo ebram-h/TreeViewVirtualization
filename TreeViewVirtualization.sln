@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewVirtualization", "TreeViewVirtualization\TreeViewVirtualization.csproj", "{8734EFA1-B693-4B6C-BB0F-D26CB28803F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8734EFA1-B693-4B6C-BB0F-D26CB28803F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8734EFA1-B693-4B6C-BB0F-D26CB28803F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8734EFA1-B693-4B6C-BB0F-D26CB28803F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8734EFA1-B693-4B6C-BB0F-D26CB28803F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEB17B80-559B-4954-B071-A6C68D0778F5}
+	EndGlobalSection
+EndGlobal
